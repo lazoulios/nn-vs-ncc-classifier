@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Dataset files and folders
+data/
+*.tar.gz
+*.zip
+*.npz
+*.pickle
+*.pkl
+*.npy
+cifar-10-batches-py/
+
+# Python cache
+__pycache__/
+*.pyc
